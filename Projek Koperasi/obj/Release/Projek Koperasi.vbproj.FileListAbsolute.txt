@@ -1,0 +1,7 @@
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\bin\Release\Projek Koperasi.exe.config
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek_Koperasi.Form1.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek_Koperasi.lobby.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek_Koperasi.login.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek_Koperasi.regin.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek_Koperasi.Resources.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Release\Projek Koperasi.vbproj.GenerateResource.Cache

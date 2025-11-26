@@ -1,0 +1,17 @@
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\bin\Debug\Projek Koperasi.exe.config
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\bin\Debug\Projek Koperasi.exe
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\bin\Debug\Projek Koperasi.pdb
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\bin\Debug\Projek Koperasi.xml
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.Resources.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek Koperasi.vbproj.GenerateResource.Cache
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek Koperasi.exe
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek Koperasi.xml
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek Koperasi.pdb
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.Login.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.regin.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.lobby.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.PU.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.logadm.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.adm.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.RU.resources
+C:\Users\HANA\OneDrive\Documents\Koperasi New 2.0\Projek Koperasi\Projek Koperasi\obj\Debug\Projek_Koperasi.SDK.resources
